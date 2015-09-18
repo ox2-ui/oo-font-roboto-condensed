@@ -1,8 +1,8 @@
 Package.describe({
   name: 'ox2:font-roboto-condensed',
-  summary: 'Google Roboto Condensed font',
-  version: '1.0.0',
-  git: ' /* Fill me in! */ '
+  summary: 'Roboto Condensed font',
+  version: '1.13.0',
+  git: 'https://github.com/ox2/oo-font-roboto-condensed'
 });
 
 Package.onUse(function(api) {
