@@ -7,8 +7,8 @@ Package.describe({
 
 Package.onUse(function(api) {
   api.versionsFrom('1.0.2.1');
-  api.addFiles('lib/roboto-condensed-regular.css', 'client');
   api.addFiles('lib/roboto-condensed-light.css', 'client');
+  api.addFiles('lib/roboto-condensed-regular.css', 'client');
 });
 
 Package.onTest(function(api) {
