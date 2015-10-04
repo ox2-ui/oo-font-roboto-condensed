@@ -1,6 +1,6 @@
 Package.describe({
   name: 'ox2:font-roboto-condensed',
-  summary: 'Roboto Condensed font',
+  summary: 'TESTING_DO_NOT_USE Roboto Condensed font',
   version: '1.13.0',
   git: 'https://github.com/ox2/oo-font-roboto-condensed'
 });
